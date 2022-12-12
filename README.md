@@ -1,3 +1,4 @@
-# machine_learning
+# Practicas simples en Python
 Machine Learning Projects
-- Practice of branch in GITHUB 
+- Basic Python
+- Pandas: Jupyter Notebook.
