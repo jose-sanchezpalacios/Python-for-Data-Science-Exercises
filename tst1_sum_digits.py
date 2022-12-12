@@ -1,4 +1,5 @@
 # Requests a number for example: 812 and sum all the digits, returns  8 + 1 + 2 = 11
+# I have to try vectorization. 
 import time 
 
 number1 = int(input())
